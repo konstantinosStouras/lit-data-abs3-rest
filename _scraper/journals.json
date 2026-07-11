@@ -1,0 +1,255 @@
+[
+  {
+    "key": "jbr",
+    "name": "Journal of Business Research",
+    "short": "JBR",
+    "issns": [
+      "0148-2963"
+    ],
+    "publisher": "Elsevier",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "jbe",
+    "name": "Journal of Business Ethics",
+    "short": "JBE",
+    "issns": [
+      "0167-4544",
+      "1573-0697"
+    ],
+    "publisher": "Springer",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "cmr",
+    "name": "California Management Review",
+    "short": "CMR",
+    "issns": [
+      "0008-1256",
+      "2162-8564"
+    ],
+    "publisher": "SAGE",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "lrp",
+    "name": "Long Range Planning",
+    "short": "LRP",
+    "issns": [
+      "0024-6301"
+    ],
+    "publisher": "Elsevier",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "ibr",
+    "name": "International Business Review",
+    "short": "IBR",
+    "issns": [
+      "0969-5931"
+    ],
+    "publisher": "Elsevier",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "mir",
+    "name": "Management International Review",
+    "short": "MIR",
+    "issns": [
+      "0938-8249",
+      "1861-8901"
+    ],
+    "publisher": "Springer",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "jbf",
+    "name": "Journal of Banking & Finance",
+    "short": "JB&F",
+    "issns": [
+      "0378-4266"
+    ],
+    "publisher": "Elsevier",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "jbfa",
+    "name": "Journal of Business Finance & Accounting",
+    "short": "JBFA",
+    "issns": [
+      "0306-686X",
+      "1468-5957"
+    ],
+    "publisher": "Wiley",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "bar",
+    "name": "The British Accounting Review",
+    "short": "BAR",
+    "issns": [
+      "0890-8389"
+    ],
+    "publisher": "Elsevier",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "ah",
+    "name": "Accounting Horizons",
+    "short": "Acc. Horizons",
+    "issns": [
+      "0888-7993",
+      "1558-7975"
+    ],
+    "publisher": "American Accounting Association",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "aaaj",
+    "name": "Accounting, Auditing & Accountability Journal",
+    "short": "AAAJ",
+    "issns": [
+      "0951-3574"
+    ],
+    "publisher": "Emerald",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "ejm",
+    "name": "European Journal of Marketing",
+    "short": "EJM",
+    "issns": [
+      "0309-0566"
+    ],
+    "publisher": "Emerald",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "psymark",
+    "name": "Psychology & Marketing",
+    "short": "Psych. & Marketing",
+    "issns": [
+      "0742-6046",
+      "1520-6793"
+    ],
+    "publisher": "Wiley",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "hrmr",
+    "name": "Human Resource Management Review",
+    "short": "HRM Review",
+    "issns": [
+      "1053-4822"
+    ],
+    "publisher": "Elsevier",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "ijhrm",
+    "name": "The International Journal of Human Resource Management",
+    "short": "IJHRM",
+    "issns": [
+      "0958-5192",
+      "1466-4399"
+    ],
+    "publisher": "Taylor & Francis",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "iam",
+    "name": "Information & Management",
+    "short": "I&M",
+    "issns": [
+      "0378-7206"
+    ],
+    "publisher": "Elsevier",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "dss",
+    "name": "Decision Support Systems",
+    "short": "DSS",
+    "issns": [
+      "0167-9236"
+    ],
+    "publisher": "Elsevier",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "sbe",
+    "name": "Small Business Economics",
+    "short": "SBE",
+    "issns": [
+      "0921-898X",
+      "1573-0913"
+    ],
+    "publisher": "Springer",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "isbj",
+    "name": "International Small Business Journal",
+    "short": "ISBJ",
+    "issns": [
+      "0266-2426",
+      "1741-2870"
+    ],
+    "publisher": "SAGE",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "jsbm",
+    "name": "Journal of Small Business Management",
+    "short": "JSBM",
+    "issns": [
+      "0047-2778",
+      "1540-627X"
+    ],
+    "publisher": "Taylor & Francis",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "technovation",
+    "name": "Technovation",
+    "short": "Technovation",
+    "issns": [
+      "0166-4972"
+    ],
+    "publisher": "Elsevier",
+    "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "rdm",
+    "name": "R&D Management",
+    "short": "R&D Mgmt",
+    "issns": [
+      "0033-6807",
+      "1467-9310"
+    ],
+    "publisher": "Wiley",
+    "abs": "3",
+    "aia": true
+  }
+]
