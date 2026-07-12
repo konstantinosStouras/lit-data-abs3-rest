@@ -1,21 +1,28 @@
-# Candidates for this shard — grade needs confirmation on journalranking.org
+# Candidates for this shard — grade confirmation status
 
 SCOPE: Computer Science / Information Systems, Project Management and
 Innovation-related ABS 3 journals belong here (OM/OR + Economics ABS 3 go
 to lit-data-abs3-omecon; other fields are deliberately out of scope).
-Confirm each grade on https://journalranking.org/ before adding.
 
-Likely 3 (project management / innovation):
-- Industry and Innovation (1366-2716)
-- Project Management Journal (8756-9728) — may be 2
-- Research-Technology Management (0895-6308) — may be 2
-- Creativity and Innovation Management (0963-1690) — may be 2
-- International Journal of Innovation Management (1363-9196) — may be 2
+All previously-listed candidates were checked against the AJG2024 grades on
+https://journalranking.org/ (2026-07-12 pass) and resolved:
 
-Likely 3 (CS / IS):
-- Information Systems Frontiers (1387-3326)
-- International Journal of Human-Computer Studies (1071-5819)
-- Government Information Quarterly (0740-624X) — may be 4
-- Journal of Computer Information Systems — may be 2
-- ACM Transactions on Management Information Systems (2158-656X) — verify listing
-- Journal of Database Management (1063-8016) — may be 2
+## Added to this shard (confirmed ABS 3)
+- Industry and Innovation (1366-2716) — AJG2024 **3**
+- Information Systems Frontiers (1387-3326) — AJG2024 **3**
+- Government Information Quarterly (0740-624X) — AJG2024 **3**
+
+## Out of scope (not added — AJG2024 grade ≤ 2)
+- Project Management Journal (1), Journal of Database Management (1)
+- Research-Technology Management (2), Creativity and Innovation Management (2)
+- International Journal of Innovation Management (2),
+  International Journal of Human-Computer Studies (2),
+  Journal of Computer Information Systems (2)
+
+Note: International Journal of Project Management, already in this shard, was
+retired in the same pass — AJG2024 grades it 2, below the ABS-3 scope floor.
+
+## Pending — not listed in the journalranking.org AJG2024 dataset
+Could not confirm a grade (absent from the source), so left unadded:
+- ACM Transactions on Management Information Systems (2158-656X) — a real ABS 3
+  journal, but not in the journalranking.org dataset; add if confirmed.
