@@ -8,7 +8,10 @@
     ],
     "publisher": "Elsevier",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "jbe",
@@ -20,7 +23,10 @@
     ],
     "publisher": "Springer",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "cmr",
@@ -32,7 +38,10 @@
     ],
     "publisher": "SAGE",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "lrp",
@@ -43,7 +52,10 @@
     ],
     "publisher": "Elsevier",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "ibr",
@@ -54,7 +66,10 @@
     ],
     "publisher": "Elsevier",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "mir",
@@ -66,7 +81,10 @@
     ],
     "publisher": "Springer",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "jbf",
@@ -77,7 +95,10 @@
     ],
     "publisher": "Elsevier",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "jbfa",
@@ -89,7 +110,10 @@
     ],
     "publisher": "Wiley",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "bar",
@@ -100,7 +124,10 @@
     ],
     "publisher": "Elsevier",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "ah",
@@ -112,7 +139,10 @@
     ],
     "publisher": "American Accounting Association",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "aaaj",
@@ -123,7 +153,10 @@
     ],
     "publisher": "Emerald",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "ejm",
@@ -134,7 +167,10 @@
     ],
     "publisher": "Emerald",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "psymark",
@@ -146,7 +182,10 @@
     ],
     "publisher": "Wiley",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "hrmr",
@@ -157,7 +196,10 @@
     ],
     "publisher": "Elsevier",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "ijhrm",
@@ -169,7 +211,10 @@
     ],
     "publisher": "Taylor & Francis",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "iam",
@@ -203,7 +248,10 @@
     ],
     "publisher": "Springer",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "isbj",
@@ -215,7 +263,10 @@
     ],
     "publisher": "SAGE",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "jsbm",
@@ -227,7 +278,10 @@
     ],
     "publisher": "Taylor & Francis",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "technovation",
@@ -238,7 +292,10 @@
     ],
     "publisher": "Elsevier",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   },
   {
     "key": "rdm",
@@ -250,6 +307,9 @@
     ],
     "publisher": "Wiley",
     "abs": "3",
-    "aia": true
+    "aia": true,
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
   }
 ]
