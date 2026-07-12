@@ -292,10 +292,7 @@
     ],
     "publisher": "Elsevier",
     "abs": "3",
-    "aia": true,
-    "retired": true,
-    "retiredDate": "2026-07-12",
-    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
+    "aia": true
   },
   {
     "key": "rdm",
@@ -307,9 +304,57 @@
     ],
     "publisher": "Wiley",
     "abs": "3",
+    "aia": true
+  },
+  {
+    "key": "ijpm",
+    "name": "International Journal of Project Management",
+    "short": "IJPM",
+    "issns": [
+      "0263-7863"
+    ],
+    "publisher": "Elsevier",
+    "abs": "3",
     "aia": true,
-    "retired": true,
-    "retiredDate": "2026-07-12",
-    "retiredReason": "out of scope: ABS coverage is limited to Operations/SCM/Economics/CS-related journals"
+    "addedBy": "pm-innovation-scope"
+  },
+  {
+    "key": "ieeetem",
+    "name": "IEEE Transactions on Engineering Management",
+    "short": "IEEE TEM",
+    "issns": [
+      "0018-9391",
+      "1558-0040"
+    ],
+    "publisher": "IEEE",
+    "abs": "3",
+    "aia": true,
+    "addedBy": "pm-innovation-scope"
+  },
+  {
+    "key": "icc",
+    "name": "Industrial and Corporate Change",
+    "short": "ICC",
+    "issns": [
+      "0960-6491",
+      "1464-3650"
+    ],
+    "publisher": "Oxford University Press",
+    "abs": "3",
+    "aia": true,
+    "addedBy": "pm-innovation-scope"
+  },
+  {
+    "key": "jtt",
+    "name": "The Journal of Technology Transfer",
+    "short": "JTT",
+    "issns": [
+      "0892-9912",
+      "1573-7047"
+    ],
+    "publisher": "Springer",
+    "abs": "3",
+    "aia": true,
+    "addedBy": "pm-innovation-scope"
   }
 ]
