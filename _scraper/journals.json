@@ -316,7 +316,10 @@
     "publisher": "Elsevier",
     "abs": "3",
     "aia": true,
-    "addedBy": "pm-innovation-scope"
+    "addedBy": "pm-innovation-scope",
+    "retired": true,
+    "retiredDate": "2026-07-12",
+    "retiredReason": "AJG2024 grade is 2 on journalranking.org, below this catalog's ABS-3 minimum scope"
   },
   {
     "key": "ieeetem",
@@ -356,5 +359,44 @@
     "abs": "3",
     "aia": true,
     "addedBy": "pm-innovation-scope"
+  },
+  {
+    "key": "indinnov",
+    "name": "Industry and Innovation",
+    "short": "Industry & Innov.",
+    "issns": [
+      "1366-2716",
+      "1469-8390"
+    ],
+    "publisher": "Taylor & Francis",
+    "abs": "3",
+    "aia": true,
+    "addedBy": "abs-2024-sync (journalranking.org AJG2024)"
+  },
+  {
+    "key": "isf",
+    "name": "Information Systems Frontiers",
+    "short": "ISF",
+    "issns": [
+      "1387-3326",
+      "1572-9419"
+    ],
+    "publisher": "Springer",
+    "abs": "3",
+    "aia": true,
+    "addedBy": "abs-2024-sync (journalranking.org AJG2024)"
+  },
+  {
+    "key": "giq",
+    "name": "Government Information Quarterly",
+    "short": "GIQ",
+    "issns": [
+      "0740-624X",
+      "1872-9517"
+    ],
+    "publisher": "Elsevier",
+    "abs": "3",
+    "aia": true,
+    "addedBy": "abs-2024-sync (journalranking.org AJG2024)"
   }
 ]
